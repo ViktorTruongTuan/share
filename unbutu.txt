@@ -1,0 +1,10 @@
+creating a new directory: "mkdir"
+print working directory: "pwd" 
+change directory: "cd" 
+go up to the parent directory: "cd .."
+make directory: "mkdir"
+look at its content: "cat"
+print to text : echo "This is a test">test.txt
+move file: mv file destinaton directory
+coppy: "cp"
+delete: "rm"
